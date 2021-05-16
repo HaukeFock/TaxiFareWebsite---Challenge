@@ -7,8 +7,8 @@ on:
   release:
     types: [created]
 
-jobs:
-  deploy:
+#jobs:
+  #deploy:
 
     runs-on: ubuntu-latest
 
